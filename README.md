@@ -1,4 +1,5 @@
 # Localizer
+[![NuGet version (Localizer)](https://img.shields.io/nuget/v/Localizer.svg?style=flat-square)](https://www.nuget.org/packages/Localizer/)
 Simple cross-platform localization utility for your .NET apps, compatible with .NET Standard 2.0.
 
 ## Installation
